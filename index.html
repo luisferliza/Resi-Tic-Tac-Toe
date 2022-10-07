@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+  <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1 id="headerText">Resi</h1>
+    </header>
+  <div class="board" id="board">
+    <div class="cell" data-cell data-cell-number="0"></div>
+    <div class="cell" data-cell data-cell-number="1"></div>
+    <div class="cell" data-cell data-cell-number="2"></div>
+    <div class="cell" data-cell data-cell-number="3"></div>
+    <div class="cell" data-cell data-cell-number="4"></div>
+    <div class="cell" data-cell data-cell-number="5"></div>
+    <div class="cell" data-cell data-cell-number="6"></div>
+    <div class="cell" data-cell data-cell-number="7"></div>
+    <div class="cell" data-cell data-cell-number="8"></div>
+  </div>
+  <div class="winning-message" id="winningMessage">
+    <img class="avatar show" src="./resi2.png" id="resiLaughing">
+    <img class="avatar" src="./resi.png" id="resiSmiling">
+    <div data-winning-message-text></div>
+    <button id="restartButton">Reiniciar</button>
+  </div>
+  <div class="name-screen show" id="nameScreen">
+    <img class="avatar show" src="./resi3.png">
+    <input type="text" id="nameInput" placeholder="¿A quién le ganaré hoy?">
+    <button id="initButton">Comenzar</button>
+  </div>
+</body>
+</html>
