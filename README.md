@@ -43,3 +43,7 @@ Probablemente estés pensando que este algoritmo puede ser muy ineficiente, lo e
 Después de la teoría explicada en la sección anterior, conoces de forma muy detallada como funcionan los pensamientos de Resi, por lo que sería normal pensar que podrías ganarle, ¿O quizás no?
 
 ![2022-10-06 20_40_05-Document](https://user-images.githubusercontent.com/34200816/194456611-68a3480f-04f4-4470-82b5-d32bd7503901.png)
+
+Te dejo el enlace para que puedas medir tus habilidades contra Resi, eso sí, ten en cuenta que no es un mono muy amigable cuando gana (Quien sabe como será cuando pierde).
+
+La batalla contra [RESI](https://resi.luislizama.com/).
